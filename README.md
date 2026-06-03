@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Taha Majid! 👋
 
-<!--
-**taha-majid/taha-majid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🇩🇪 Aspiring IT Specialist (Fachinformatiker)
+Ich bin ein 19-jähriger Schüler aus dem Irak. Ich bereite mich auf mein Abitur vor und lerne intensiv Deutsch (Ziel: B2), um eine Ausbildung im IT-Bereich in Deutschland zu absolvieren.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+*   **Programming:** Python 🐍, HTML5 🌐, CSS3 🎨, JavaScript ⚡
+*   **Systems & Tools:** Linux (Basics), Git & GitHub, Notion (Business OS Developer)
+*   **Languages:** Arabic (Native), English (Fluent), German (Learning - B1/B2)
+
+---
+
+### 📁 Featured Projects
+*   **[Business-Budget-Tracker](https://github.com/taha-majid/Business-Budget-Tracker):** A Python script designed to manage and analyze micro-business expenses, track monthly cash flow, and log automated budget alerts under clean code principles.
+
+---
+
+📫 **How to reach me:** [اضف إيميلك هنا]
